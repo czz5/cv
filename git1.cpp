@@ -1,3 +1,4 @@
+/*½Çµã¼ì²â*/
 /*#include<opencv2/opencv.hpp>
 #include<iostream>
 using namespace cv;
