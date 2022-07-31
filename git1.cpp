@@ -1,4 +1,4 @@
-#include<opencv2/opencv.hpp>
+/*#include<opencv2/opencv.hpp>
 #include<iostream>
 using namespace cv;
 using namespace std;
@@ -45,4 +45,4 @@ int main()
 	on_GoodFeaturesToTrack(0, 0);
 	waitKey(0);
 	return(0);
-}
+}*/
